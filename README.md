@@ -1,0 +1,3 @@
+# Code Refactor Starter Code
+
+Summary: With my first project I have successfully completed the grading rubric and project requirements. In this challenge there was a lot of personal growth that took place. I had to learn diffrenet HTML elements composed of different structures, positions and styles. I have reached out to my TAs during my office hours, my intstructor during class hours and myt acaedmic advisors to get all the proper knowledge from the resources I am provided. This first project was a great opportunity to start the coding bootcamp and its only up from here. I hope to keep this momentum up and keep going up from here.
